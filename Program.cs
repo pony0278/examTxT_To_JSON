@@ -165,7 +165,7 @@ public class Program
             // 檢查路徑格式
             try
             {
-                // 獲取完整路徑
+                // 獲得完整路徑
                 filePath = Path.GetFullPath(filePath);
 
                 // 如果是輸入文件，檢查文件是否存在
